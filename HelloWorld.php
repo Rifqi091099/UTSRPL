@@ -12,6 +12,7 @@
     echo "Rifqi";
     echo "1810817310010";
     echo "Hello World, UTS RPL 2021";
+    echo "Senin,27 September 2021";
     ?>
 </body>
 </html>
